@@ -24,3 +24,7 @@ ponytail-*.gif
 
 # agentic benchmark workspaces (agent output, kept locally for inspection)
 benchmarks/agentic/runs/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
